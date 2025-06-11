@@ -42,4 +42,7 @@ mvnw spring-boot:run
 | GET    | `/lists`                | Retorna todas as listas de jogos      |
 | GET    | `/lists/{listId}/games` | Retorna os jogos de uma lista         |
 
+## Autor
 
+- Maurício Cabanhas Mota
+- linkedin: [https://www.linkedin.com/in/maurício-mota-006203306/](https://www.linkedin.com/in/maurício-mota-006203306/)
